@@ -32,9 +32,9 @@
 <code><img title="Kubernetes" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img title="Terraform" height="30" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg"></code>
 <code><img title="Java" height="30" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
-<code><img title="Cassandra" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png"></code>
+<code><img title="Cassandra" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg"></code>
 <code><img title="KairosDB" height="30" src="https://raw.githubusercontent.com/kairosdb/kairosdb/60f3ca8bb8335ff91c2fe7c8e6140c8098b2c313/src/docs/_static/favicon.png"></code>
-<code><img title="Typescript" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
+
 
 
 
